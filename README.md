@@ -1,4 +1,4 @@
-# Covid Map
+# Car Rental
 
 Araç kiralama sitesinde, araçlar listelenmiştir. <br />
 Gelişmiş filtreleme özelliğiyle marka, model, yakıt tipi ve yılı seçilebilir. <br />
